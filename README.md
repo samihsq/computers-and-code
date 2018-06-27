@@ -25,6 +25,8 @@ _Projects:_
 
 _Resources:_
 
+* [Udemy](https://www.udemy.com/java-the-complete-java-developer-course/); this tutorial really helped me understand Java (it helps if you buy the tutorial when it is on sale, which happens a lot)
+
 _Projects:_
 
 ### R
@@ -32,7 +34,10 @@ _Projects:_
 _Resources:_
 
 _Projects:_
-[401K9](#my-projects)
+
+* 401K9: one of my projects; a map of some known K9s in California and a table that shows if they have retired.  
+[_Source Code_](https://github.com/samihsq/401k9)  
+[_Working Model_](http://138.68.62.139:3838/)
 
 ## Robotics
 
@@ -60,7 +65,7 @@ _Projects:_
 
 ## My Projects
 
-[Here](https://github.com/samihsq/401k9) is a link to one of my projects; a map of some known K9s in California and if they have retirement funds. This project is named 401K9 and it is coded in R.
+[Here](https://github.com/samihsq/401k9) is a link to one of my projects; a map of some known K9s in California and a table that shows if they have retired. This project is named 401K9 and it is coded in R.
 
 
 
