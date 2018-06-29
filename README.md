@@ -21,7 +21,10 @@ _Resources:_
 
 _Projects:_
 
-* [Hello World](https://github.com/samihsq/computers-and-code/blob/master/python/helloworld.py): a simple hello world program in python
+* A simple hello world program in Python.  
+[_Source Code_](https://github.com/samihsq/computers-and-code/blob/master/python/helloworld.py)  
+[_Code Running_](https://repl.it/@samihsq/Hello-World-Python) (press the run button)
+
 
 ### Java
 
@@ -34,7 +37,7 @@ _Projects:_
 * A simple hello world program in Java. 
 
 [_Source Code_](https://github.com/samihsq/computers-and-code/blob/master/java/src/helloworld.java)  
-[_Code Running_](http://tpcg.io/VbOMwR) (press execute)
+[_Code Running_](https://repl.it/@samihsq/Hello-World-Java) (press the run button)
  
 
 ### R
@@ -43,7 +46,9 @@ _Resources:_
 
 _Projects:_
 
-* [Hello World](https://github.com/samihsq/computers-and-code/blob/master/r/helloworld.R): a simple hello world program in R
+* A simple hello world program in R.  
+[_Source Code_](https://github.com/samihsq/computers-and-code/blob/master/r/helloworld.R)  
+[_Code Running_](https://repl.it/@samihsq/Hello-World-R) (press the run button)
 
 
 * 401K9: one of my projects; a map of some known K9s in California and a table that shows if they have retired.  
